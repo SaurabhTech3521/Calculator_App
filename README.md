@@ -13,4 +13,5 @@ python calculator.py
 
 ## App Screenshot
 
-![Calculator Screenshot](Calculator App Using Python/screenshot/calc_gui.png)
+![Calculator Screenshot](Calculator%20App%20Using%20Python/screenshot/calc_gui.png)
+
