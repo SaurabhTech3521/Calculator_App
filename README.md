@@ -9,3 +9,8 @@ Features:
 
 How to run:
 python calculator.py
+
+
+## App Screenshot
+
+![Calculator Screenshot](screenshots/calc_gui.png)
